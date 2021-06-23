@@ -1,0 +1,13 @@
+name = "WordSub"
+uuid = "9c0bccc8-927a-4ec5-8d5a-6a2ef6503180"
+authors = ["SouvikBan <banerjeesouvik123@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
